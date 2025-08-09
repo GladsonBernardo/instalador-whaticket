@@ -18,7 +18,7 @@ sudo apt install -y git && git clone https://github.com/deybsonlopes/instalador-
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd ./instaladorwhatsapsaas-main-new && sudo ./install_instancia
+cd ./instalador-whaticket && sudo ./install_instancia
 ```
 
 
