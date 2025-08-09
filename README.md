@@ -10,6 +10,10 @@ sudo apt update
 sudo apt upgrade -y
 ```
 
+```
+sudo reboot
+```
+
 PROXIMO COMANDO:
 
 ```bash
